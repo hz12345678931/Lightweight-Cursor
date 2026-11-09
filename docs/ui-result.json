@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "checks": [
+    "workbench",
+    "python AST map",
+    "real MCP stdio",
+    "OpenAI SSE",
+    "failure recovery",
+    "diff review",
+    "real unittest",
+    "inline completion Tab",
+    "task stop"
+  ],
+  "pageErrors": []
+}
